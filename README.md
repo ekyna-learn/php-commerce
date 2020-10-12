@@ -11,7 +11,7 @@ Cloner ce projet :
     cd commerce
 
 Dans PhpMyAdmin, créer une base de données nommée commerce et importer 
-[ce fichier](https://github.com/ekyna-learn/php-ecommerce/blob/master/doc/commerce.sql). 
+[ce fichier](https://github.com/ekyna-learn/php-commerce/blob/master/doc/commerce.sql). 
 
 Voici le schema de la base de données. 
 ![Schema base de données](doc/db.jpg)
